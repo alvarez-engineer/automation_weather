@@ -1,0 +1,18 @@
+Create weather app that scrapes the internet for weather and
+emails/texts the weekly weather
+
+To do:
+  Set up users based on text?
+  database with users to hold location
+  also receive emails or texts and respond to it
+  figure out how to render templates for html for emails
+
+DB:
+  id
+  phone
+  username
+  email?
+  location
+  language
+
+  Go slow through this and the autoweather3 script

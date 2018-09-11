@@ -1,0 +1,9 @@
+Dear {{ user.username }},
+
+  Good morning! Here is your daily weather forecast for {{ user.location}}.
+
+Hold for content...
+
+Sincerely,
+
+Adrian's buttler</p>
